@@ -11,6 +11,6 @@ Anotações:
 
 - x.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL}) -> localização para moeda brasileira
 
-Operadores: 
+- Operadores: 
     - Operador de potencia = "**" 
     - 5 == '5'
